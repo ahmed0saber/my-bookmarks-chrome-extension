@@ -1,0 +1,17 @@
+{
+    "manifest_version" : 3,
+    "name" : "My Bookmarks",
+    "version" : "1.0",
+    "description" : "An extension that stores your links.",
+    "author": "Ahmed Saber | ahmed0saber",
+    "icons" : {
+        "128" : "img/icons128.png",
+        "48" : "img/icons48.png",
+        "16" : "img/icons16.png"
+    },
+    "action" : {
+        "default_icon" : "img/icons16.png",
+        "default_popup" : "index.html",
+        "default_title": "My Bookmarks"
+    }
+}
